@@ -27,7 +27,7 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 ## 💡 Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| steganography-tool        | <a href="https://github.com/Diwakarty/steganography-tool/blob/main/README.md">steganography-tool</a>|
+| steganography-tool        | <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
