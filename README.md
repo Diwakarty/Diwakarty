@@ -39,6 +39,10 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 - **Email:** [diwakar.ty@gmail.com](mailto:diwakar.ty@gmail.com)
 - **LinkedIn:** [Diwakar Tyagi](https://www.linkedin.com/in/diwakar-t-5263b0275/)
 
+
+## Projects
+- <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>
+- SOC Automation Project
 ---
 
 ✨ **Thanks for stopping by!** I'm excited to connect with professionals and peers who share a passion for pushing the limits in cybersecurity. Let’s collaborate, innovate, and create something extraordinary together!
