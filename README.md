@@ -26,7 +26,8 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 
 ## 💡 Projects
 - <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>
-A tool to hide and encrypt text within WEBP images and decrypt it using the same tool.
+
+A tool to hide and encrypt text within images and decrypt it using the same tool.
 
 - SOC Automation Project
 
