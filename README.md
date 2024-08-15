@@ -1,7 +1,3 @@
-Here’s an enhanced version of your GitHub profile README, incorporating additional skills and learning areas:
-
----
-
 # 👋 Hi, I'm Diwakar Tyagi
 <a href="https://www.linkedin.com/in/diwakar-t-5263b0275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
