@@ -10,7 +10,7 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 ## 🔥 What Excites Me
 - **Hacking & Penetration Testing:** I love the thrill of uncovering vulnerabilities and securing systems from potential threats.
 - **Tool & Framework Development:** Creating custom tools and frameworks to tackle specific cybersecurity challenges is my forte.
-- **OSINT Mastery:** Gathering intelligence through OSINT techniques fascinates me, and I’m always exploring new ways to innovate in this space.
+- **OSINT:** Gathering intelligence through OSINT techniques fascinates me, and I’m always exploring new ways to innovate in this space.
 
 ## 🛠️ My Skill Set
 ### Languages & Tools
@@ -32,6 +32,7 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 - **AI in Cybersecurity:** Exploring how AI can revolutionize threat detection and mitigation.
 - **Cloud Computing:** Gaining proficiency in cloud platforms and services for better scalability and security.
 - **Machine Learning:** Leveraging machine learning techniques to enhance security solutions and predictive analysis.
+- **Capture The Flag (CTF) Challenges:** Proven experience in solving CTF challenges, demonstrating problem-solving skills and practical cybersecurity knowledge.
 
 ## 💡 Projects
 - <a href="https://github.com/Diwakarty/steganography-tool">Steganography Tool</a>: Developed a tool for embedding and decrypting text within images.
