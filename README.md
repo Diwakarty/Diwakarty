@@ -1,3 +1,7 @@
+Here’s an enhanced version of your GitHub profile README, incorporating additional skills and learning areas:
+
+---
+
 # 👋 Hi, I'm Diwakar Tyagi
 <a href="https://www.linkedin.com/in/diwakar-t-5263b0275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -14,20 +18,28 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 
 ## 🛠️ My Skill Set
 ### Languages & Tools
-- **Programming:** Java, Python, Smali
-- **Cybersecurity:** Digital Forensics, OSINT, Penetration Testing, Network Security
+- **Programming:** Java, Python, Smali , C++
+- **Cybersecurity:** Digital Forensics, OSINT, Penetration Testing, Network Security, Fundamentals, Rules and Regulations, Ethics 
 - **Tools:** Frida, Kali Linux, Wireshark, Metasploit
 - **OS Expertise:** Proficient in both Linux and Windows
-
+- **Reverse Engineering:** Disassembling and analyzing software to understand its components and behavior.
+- **APK & Android Studio:** understanding the Android application structure.
+- **Certification Signing Process:** Knowledgeable in the APK signing and certification process.
+- **Android Penetration Testing:** Skilled in testing and securing Android applications.
+ -**Tools:**
+      JADX-GUI: For decompiling and analyzing APK files.
+      JAR2X: For converting JAR files and analyzing their contents.
+ 
 ### Additional Skills
-- **Reporting:** Crafting detailed security reports and analysis.
+- **Reporting:** Crafting detailed security reports and analyses.
 - **Automation:** Streamlining tasks to improve efficiency in cybersecurity operations.
 - **AI in Cybersecurity:** Exploring how AI can revolutionize threat detection and mitigation.
+- **Cloud Computing:** Gaining proficiency in cloud platforms and services for better scalability and security.
+- **Machine Learning:** Leveraging machine learning techniques to enhance security solutions and predictive analysis.
 
 ## 💡 Projects
-- <a href="https://github.com/Diwakarty/steganography-tool">Steganography-tool</a>
-- <a href="https://github.com/Diwakarty/Password-Cracker">Password-Cracker</a>
- 
+- <a href="https://github.com/Diwakarty/steganography-tool">Steganography Tool</a>: Developed a tool for embedding and decrypting text within images.
+- <a href="https://github.com/Diwakarty/Password-Cracker">Password Cracker</a>: Created an advanced password cracker supporting dictionary and brute-force attacks.
 
 ## 🌐 Let’s Connect!
 - **Email:** [diwakar.ty@gmail.com](mailto:diwakar.ty@gmail.com)
@@ -36,3 +48,5 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 ---
 
 ✨ **Thanks for stopping by!** I'm excited to connect with professionals and peers who share a passion for pushing the limits in cybersecurity. Let’s collaborate, innovate, and create something extraordinary together!
+
+---
