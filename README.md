@@ -25,10 +25,9 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 - **AI in Cybersecurity:** Exploring how AI can revolutionize threat detection and mitigation.
 
 ## 💡 Projects
-- <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>
-( A tool to hide and encrypt text within images and decrypt it using the same tool. )
-
-- SOC Automation Project
+- <a href="https://github.com/Diwakarty/steganography-tool">Steganography-tool</a>
+- <a href="https://github.com/Diwakarty/Password-Cracker">Password-Cracker</a>
+ 
 
 ## 🌐 Let’s Connect!
 - **Email:** [diwakar.ty@gmail.com](mailto:diwakar.ty@gmail.com)
