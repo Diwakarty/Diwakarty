@@ -25,24 +25,15 @@ I'm an enthusiastic **Cybersecurity Professional in the Making**, currently purs
 - **AI in Cybersecurity:** Exploring how AI can revolutionize threat detection and mitigation.
 
 ## 💡 Projects
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| steganography-tool        | <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>
+A tool to hide and encrypt text within WEBP images and decrypt it using the same tool.
 
+- SOC Automation Project
 
 ## 🌐 Let’s Connect!
 - **Email:** [diwakar.ty@gmail.com](mailto:diwakar.ty@gmail.com)
 - **LinkedIn:** [Diwakar Tyagi](https://www.linkedin.com/in/diwakar-t-5263b0275/)
 
-
-## Projects
-- <a href="https://github.com/Diwakarty/steganography-tool">steganography-tool</a>
-- SOC Automation Project
 ---
 
 ✨ **Thanks for stopping by!** I'm excited to connect with professionals and peers who share a passion for pushing the limits in cybersecurity. Let’s collaborate, innovate, and create something extraordinary together!
