@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diwakar Tyagi
 <a href="https://www.linkedin.com/in/diwakar-t-5263b0275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3296725" style='border:none;'></iframe>
 ## 🚀 About Me
 I'm an enthusiastic **Cybersecurity Professional in the Making**, currently pursuing my Bachelor of Computer Application. My journey in cybersecurity is fueled by a passion for **Hacking**, **Tool Development**, **OSINT**, and **Network Security**. I thrive on challenges and love applying my skills to solve complex technical problems.
 
