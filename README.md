@@ -35,7 +35,8 @@ I’m a **technology enthusiast with a twisted love for breaking it**. From expl
 - JAR2X: For converting JAR files and analyzing their contents.  
 
 🔹 **...and many more!** The list keeps growing as I constantly explore new tools and technologies.  
- 
+
+ ### Additional Skills  
 - **Reporting:** Crafting detailed security reports and analyses.  
 - **Automation:** Streamlining tasks to improve efficiency in cybersecurity operations.  
 - **AI Exploration:** Continuously exploring AI’s potential in cybersecurity and automation.  
