@@ -11,28 +11,39 @@ I’m a **technology enthusiast with a twisted love for breaking it**. From expl
 - **Hacking & Penetration Testing:** I love the thrill of uncovering vulnerabilities and securing systems from potential threats.
 - **Tool & Framework Development:** Creating custom tools and frameworks to tackle specific cybersecurity challenges is my forte.
 - **OSINT:** Gathering intelligence through OSINT techniques fascinates me, and I’m always exploring new ways to innovate in this space.
+- **AI:** The potential of AI to revolutionize cybersecurity excites me. I’m passionate about exploring how AI can predict, detect, and mitigate threats before they happen, and I’m always experimenting with new ways to integrate AI into cybersecurity solutions.
 
 ## 🛠️ My Skill Set
 ### Languages & Tools
-- **Programming:** Java, Python, Smali , C++
-- **Cybersecurity:** Digital Forensics, OSINT, Penetration Testing, Network Security, Fundamentals, Rules and Regulations, Ethics 
-- **Tools:** Frida, Kali Linux, Wireshark, Metasploit
-- **OS Expertise:** Proficient in both Linux and Windows
-- **Reverse Engineering:** Disassembling and analyzing software to understand its components and behavior.
-- **APK & Android Studio:** understanding the Android application structure.
-- **Certification Signing Process:** Knowledgeable in the APK signing and certification process.
-- **Android Penetration Testing:** Skilled in testing and securing Android applications.
- -**Tools:**
-      JADX-GUI: For decompiling and analyzing APK files.
-      JAR2X: For converting JAR files and analyzing their contents.
+- **Programming:** Java, Python, Smali, C++
+- **Cybersecurity:** Digital Forensics, OSINT, Penetration Testing, Network Security, Fundamentals, Rules and Regulations, Ethics  
+- **Tools:** Frida, Kali Linux, Wireshark, Metasploit,Burp Suite, SIEM Tools  
+- **OS Expertise:** Proficient in both Linux and Windows  
+- **Reverse Engineering:** Disassembling and analyzing software to understand its components and behavior.  
+- **APK & Android Studio:** Understanding the Android application structure.  
+- **Certification Signing Process:** Knowledgeable in the APK signing and certification process.  
+- **Android Penetration Testing:** Skilled in testing and securing Android applications.  
+- **Web & API Penetration Testing:** Experienced in testing and securing web applications and APIs against vulnerabilities.  
+
+### AI & Machine Learning  
+- **Agentic AI & Autonomous Systems:** Exploring AI-driven cybersecurity solutions and self-learning security agents.  
+- **LLMs (Large Language Models):** Experimenting with LLMs to enhance cybersecurity, automate threat analysis, and build AI-powered security tools.  
+- **AI in Cybersecurity:** Implementing AI-based techniques for intrusion detection, threat intelligence, and anomaly detection.  
+
+### Tools  
+- JADX-GUI: For decompiling and analyzing APK files.  
+- JAR2X: For converting JAR files and analyzing their contents.  
+
+🔹 **...and many more!** The list keeps growing as I constantly explore new tools and technologies.  
  
-### Additional Skills
-- **Reporting:** Crafting detailed security reports and analyses.
-- **Automation:** Streamlining tasks to improve efficiency in cybersecurity operations.
-- **AI in Cybersecurity:** Exploring how AI can revolutionize threat detection and mitigation.
-- **Cloud Computing:** Gaining proficiency in cloud platforms and services for better scalability and security.
-- **Machine Learning:** Leveraging machine learning techniques to enhance security solutions and predictive analysis.
-- **Capture The Flag (CTF) Challenges:** Proven experience in solving CTF challenges, demonstrating problem-solving skills and practical cybersecurity knowledge.
+- **Reporting:** Crafting detailed security reports and analyses.  
+- **Automation:** Streamlining tasks to improve efficiency in cybersecurity operations.  
+- **AI Exploration:** Continuously exploring AI’s potential in cybersecurity and automation.  
+- **Cloud Computing:** Gaining proficiency in cloud platforms and services for better scalability and security.  
+- **Software Engineering:** Applying software development principles to build secure and efficient cybersecurity tools.  
+- **Communication:** Effectively conveying technical findings, reports, and security recommendations.  
+- **Teamwork & Collaboration:** Working seamlessly in teams to solve cybersecurity challenges and develop innovative solutions.  
+- **Capture The Flag (CTF) Challenges:** Proven experience in solving CTF challenges, demonstrating problem-solving skills and practical cybersecurity knowledge. 
 
 ## 💡 Projects
 - <a href="https://github.com/Diwakarty/steganography-tool">Steganography Tool</a>: Developed a tool for embedding and decrypting text within images.
