@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/diwakar-t-5263b0275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🚀 About Me
-I'm an enthusiastic **Cybersecurity Professional in the Making**, currently pursuing my Bachelor of Computer Application. My journey in cybersecurity is fueled by a passion for **Hacking**, **Tool Development**, **OSINT**, and **Network Security**. I thrive on challenges and love applying my skills to solve complex technical problems.
+I’m a **technology enthusiast with a twisted love for breaking it**. From exploiting vulnerabilities to experimenting with AI, I’m all about pushing the boundaries of what’s possible. As a **cyber expert**, I don’t just dabble in one thing — I thrive on **hacking systems**, **playing with AI**, **diving into AWS**, and conquering every aspect of **cybersecurity**. If there's a game to be played in the tech world, I’m in it, and I’m always looking for the next big challenge to conquer.
 
 ### 🎯 Objective
-**Driven by curiosity and innovation,** I'm constantly seeking opportunities to create groundbreaking tools, frameworks, and methodologies in cybersecurity. Whether it’s developing new ways to penetrate systems or building powerful OSINT tools, I’m all about pushing the boundaries of what's possible in the digital world.
+**Fueled by a relentless drive to outsmart technology,** my goal is to **hack and secure the most advanced systems** in existence. I’m not just interested in breaking barriers — I’m here to **reshape the digital world**, pushing AI to its limits to **predict, prevent, and annihilate cyber threats** before they even materialize. My ambition? To turn the impossible into reality, making this chaotic digital age a safer, unbreakable fortress for everyone.
 
 ## 🔥 What Excites Me
 - **Hacking & Penetration Testing:** I love the thrill of uncovering vulnerabilities and securing systems from potential threats.
