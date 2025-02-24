@@ -53,7 +53,7 @@ I’m a **technology enthusiast with a twisted love for breaking it**. From expl
 - <a href="https://github.com/Diwakarty/PortFort">PortFort</a>: A powerful network scanning and reporting tool designed for identifying open ports, vulnerabilities, and security risks in target systems.
 
 ## 🌐 Let’s Connect!
-- **Email:** [diwakar.ty@gmail.com](mailto:diwakar.ty@gmail.com)
+- **Email:** [diwakar.ty@gmail.com](mailto:diw.ig8@gmail.com)
 - **LinkedIn:** [Diwakar Tyagi](https://www.linkedin.com/in/diwakar-t-5263b0275/)
 
 ---
