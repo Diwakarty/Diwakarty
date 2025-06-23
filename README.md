@@ -21,5 +21,5 @@ Sharing tools, writeups, and experiments — nothing more.
 > No noise. Just code, findings, and experiments.
 
 <p align="center">
-  <img src="https://media.tenor.com/MzF1rOEwk6EAAAAC/hacker-man-hacker.gif" alt="Hacker Man" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG90ajY5cGFva3k2M3Rjd3NkZm5iYnZyazhxcDVpOG9qeDZha2Z4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" alt="Hacker Man Giphy" width="500" />
 </p>
