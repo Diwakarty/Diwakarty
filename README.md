@@ -1,4 +1,8 @@
-Hi, I'm Diwakar.
+# Hi, I'm Diwakar.
+
+<a href="https://www.linkedin.com/in/diwakar-t-5263b0275/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 I mess with systems, break stuff, and write tools to automate the boring parts.  
 Sharing tools, writeups, and experiments — nothing more.
@@ -14,6 +18,8 @@ Sharing tools, writeups, and experiments — nothing more.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/diwakar-t-5263b0275/)
-
 > No noise. Just code, findings, and experiments.
+
+<p align="center">
+  <img src="https://media.tenor.com/MzF1rOEwk6EAAAAC/hacker-man-hacker.gif" alt="Hacker Man" />
+</p>
