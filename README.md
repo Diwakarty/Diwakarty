@@ -1,25 +1,42 @@
-# Hi, I'm Diwakar.
-
-<a href="https://www.linkedin.com/in/diwakar-t-5263b0275/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-I mess with systems, break stuff, and write tools to automate the boring parts.  
-Sharing tools, writeups, and experiments — nothing more.
-
----
-
-**Projects**
-
-- [Steganography Tool](https://github.com/Diwakarty/steganography-tool) – Hide and extract text from images  
-- [Password Cracker](https://github.com/Diwakarty/Password-Cracker) – Brute-force and dictionary-based cracker  
-- [VAPT Network Report](https://github.com/Diwakarty/VAPT-Network-Report) – Network VAPT report with findings and fixes  
-- [PortFort](https://github.com/Diwakarty/PortFort) – GUI-based Nmap wrapper with HTML reporting
-
----
-
-> No noise. Just code, findings, and experiments.
-
+<!-- Animated Name -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG90ajY5cGFva3k2M3Rjd3NkZm5iYnZyazhxcDVpOG9qeDZha2Z4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" alt="Hacker Man Giphy" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=600&duration=4000&pause=1000&color=00E676&background=0D111700&center=true&vCenter=true&width=450&lines=Diwakar+Tyagi" alt="Diwakar Tyagi"/>
+</p>
+
+<!-- About -->
+<p align="center">
+  I’m learning offensive security, cloud-native attacks, and AI-driven red-team tooling.<br/>
+  I break systems you haven’t even imagined yet.<br/>
+  I deploy cloud solutions that cut cost and lock the gates behind me.<br/>
+  I build the tools that automate both, and I share every step of the journey.
+</p>
+
+<!-- Glitch Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=60&section=header&fontSize=0" width="100%" alt="divider"/>
+</p>
+
+<!-- Write-ups -->
+<p align="center">
+  <a href="https://medium.com/@diwakar.ty" style="font-size:1.2em; color:#00E676;" target="_blank">medium.com/@diwakar.ty</a><br/>
+  My notes on experiences, tools, research, and the art of offensive security.
+</p>
+
+<!-- Projects -->
+<p align="center">
+  <br>
+  <a href="https://github.com/Diwakarty/steganography-tool">Steganography Tool</a> •
+  <a href="https://github.com/Diwakarty/Password-Cracker">Password Cracker</a> •
+  <a href="https://github.com/Diwakarty/VAPT-Network-Report">VAPT Network Report</a> •
+  <a href="https://github.com/Diwakarty/PortFort">PortFort</a>
+</p>
+
+<!-- Glitch Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=60&section=footer&fontSize=0" width="100%" alt="divider"/>
+</p>
+
+<!-- Closing line -->
+<p align="center">
+  <i>Keep calm, stay curious, and never trust the perimeter.</i>
 </p>
