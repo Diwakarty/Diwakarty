@@ -13,7 +13,7 @@
 
 <!-- Glitch Divider (Ghost White) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ECEFF1&height=60&section=header&fontSize=0" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ECEFF1&height=62&section=header&fontSize=0" width="70%" alt="divider"/>
 </p>
 
 <!-- Write-ups -->
