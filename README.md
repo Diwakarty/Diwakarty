@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=600&duration=4000&pause=1000&color=ECEFF1&background=0D111700&center=true&vCenter=true&width=450&lines=Diwakar+Tyagi" alt="Diwakar Tyagi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=600&duration=4000&pause=1000&color=7D8597&background=0D111700&center=true&vCenter=true&width=450&lines=Diwakar+Tyagi" alt="Diwakar Tyagi"/>
 </p>
 
 <!-- About -->
@@ -11,14 +11,14 @@
   I build the tools that automate both, and I share every step of the journey.
 </p>
 
-<!-- Glitch Divider (Ghost White) -->
+<!-- Glitch Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ECEFF1&height=62&section=header&fontSize=0" width="70%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7D8597&height=62&section=header&fontSize=0" width="70%" alt="divider"/>
 </p>
 
 <!-- Write-ups -->
 <p align="center">
-  <a href="https://medium.com/@diwakar.ty" style="font-size:1.2em; color:#ECEFF1;" target="_blank">medium.com/@diwakar.ty</a><br/>
+  <a href="https://medium.com/@diwakar.ty" style="font-size:1.2em; color:#7D8597;" target="_blank">medium.com/@diwakar.ty</a><br/>
   My notes on experiences, tools, research, and the art of offensive security.
 </p>
 
@@ -32,9 +32,9 @@
   <a href="https://github.com/Diwakarty/PortFort">PortFort</a>
 </p>
 
-<!-- Glitch Divider (Ghost White) -->
+<!-- Glitch Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ECEFF1&height=62&section=footer&fontSize=0" width="62%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7D8597&height=62&section=footer&fontSize=0" width="62%" alt="divider"/>
 </p>
 
 <!-- Closing line -->
